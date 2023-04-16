@@ -15,9 +15,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "os": [
-    "win32"
-  ],
   "repository": "laggingreflex/win-node-env",
   "devDependencies": {
     "mocha": "^5.2.0"
